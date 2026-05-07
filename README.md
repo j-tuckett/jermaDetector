@@ -3,7 +3,7 @@
 
 A Siamese Neural Network built to detect hidden frames of Jerma in youtube videos.
 
-This project originally started as a joke when my friend hid a singular frame of Jerma, a popular Twitch streamer, in a 2.5 hour long Youtube video and said the first person to find it gets cookies. Though someone found it that day, I decided to prepare for future competitions by creating this AI model. It was trained using augmented data of the LFW Dataset, images I collected of Jerma, and lots of images I collected of anything that wasn't a face to make the model more robust in situations when a face wasn't present in the image. 
+This project originally started as a joke when my friend hid a singular frame of Jerma, a popular Twitch streamer, in a 2.5 hour long Youtube video and said the first person to find it gets cookies. Though someone found it that day, I decided to prepare for future competitions by creating this AI model. It was programmed using TensorFlow, was trained using augmented data of the LFW Dataset, images I collected of Jerma, and lots of images I collected of anything that wasn't a face to make the model more robust in situations when a face wasn't present in the image. 
 
 The final version of the model that I trained achieved an accuracy of 0.979 on its test dataset.
 
